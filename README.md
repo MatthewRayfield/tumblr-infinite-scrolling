@@ -6,7 +6,7 @@ Many people use the Tumblr infinite scrolling script by Cody Sherman, but his pa
 If you are adding infinite scrolling for the first time, just add the script tag below to the bottom of your theme body. Or swap out the old script tag for this one if you already had it in your theme.
 
 ```
-<script src=""></script>
+<script src="https://matthewrayfield.github.io/tumblr-infinite-scrolling/infinitescrolling.js"></script>
 ```
 
 ---
