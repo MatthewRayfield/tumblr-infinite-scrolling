@@ -1,5 +1,5 @@
 # Tumblr Infinite Scrolling Script
-( Modified to work in 2019 ) ( last updated: August 16th 2019 )
+Last Updated: **December 9th 2020**
 
 Many people use the Tumblr infinite scrolling script by Cody Sherman, but his page is dead and the script itself has also stopped working with a Tumblr update. I made a very small tweak to it and now it appears to work just fine.
 
